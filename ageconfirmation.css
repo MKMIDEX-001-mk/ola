@@ -13,7 +13,7 @@ body {
 
 div {
   border: 2px solid red;
-  width: 50vw;
+  width: 90vw;
   height: 30vh;
   display: flex;
   flex-direction: column;
@@ -23,7 +23,8 @@ div {
 }
 p {
   border: 2px solid blue;
-  padding: 0px 25px;
+  width: 80%;
+  /* padding: 0px 25px; */
 }
 button {
   background-color: rgb(202, 32, 32);
@@ -32,3 +33,4 @@ button {
   padding: 2px 20px;
   border: none;
 }
+
